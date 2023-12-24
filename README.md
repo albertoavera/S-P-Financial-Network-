@@ -1,2 +1,2 @@
 # S&P Financial-Network
-A project I spent a bit of time working on during graduate school
+A project I spent a bit of time working on during my graduate study.  Here is a great example of live data extraction by simply using API's. Here in this example I used yahoo finance's API in my notebook to extract information from last quarter end.  I made a very comprehensive video presentation showing my netwrok graph that I later imported into gephi in order to make a a final interactive display!
